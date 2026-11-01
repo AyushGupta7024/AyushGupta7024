@@ -55,5 +55,5 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushGupta7024&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.nxod.cloud/api?username=AyushGupta7024&show_icons=true&theme=dark" />
 </p>
