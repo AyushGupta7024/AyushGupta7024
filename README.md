@@ -1,9 +1,4 @@
 - 👋 Hi, I’m @AyushGupta7024
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 ### 🌟 About Me
 
 - 💻 Senior DevOps & Backend Software Engineer experienced in cloud architecture, CI/CD pipelines, container orchestration, and microservices.
@@ -58,7 +53,8 @@
 ---
 
 ### 📈 GitHub Stats
-<!-- Replace 'your-github-username' with your actual username -->
+https://github.com/AyushGupta7024
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark" />
 </p>
